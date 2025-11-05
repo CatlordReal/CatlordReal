@@ -11,7 +11,7 @@
 My languages are:
 - C# main
 - C, C++ secondary
-- Python ternary
+- Python tertiary
 
 Good to know:
 - I use AI tools like Copilot or Codex to annotate and document code
