@@ -1,39 +1,40 @@
-# About me
+# "Skills"
+
+I use C# and C++ in a synergy-driven workflow powered by next-gen paradigm shifting, a rigorously functional Unix environment, and a meticulously engineered Neovim configuration that pushes Lua so far it starts counting from 0 again. My codebases leverage holistic object-oriented optimization and hyper-modular polymorphic patterns to maintain strong architectural clarity. Through disciplined pointer management and structured concurrency practices, I can confidently say I know 100f% of these languages.
+Oh and I know some python too.
+
+
+# No but seriously, I:
+
+- Specialise in C# and C++ (low-level work)
+- Do mostly backend (but am learning Qt)
+- Have experience in embedded systems
+- Use Neovim (instant S-tier programmer status)
+- Use macOS mostly but also Linux VMs when situation calls
+
+# What I'm working on right now-ish:
+- Sanbot (repos Sanbot-MCU-Bridge and Sunny-Sanbot)
+- Learning Qt
+- The thesaurus (because how else am I going to find all these words)
+- Updating this list
+
+# Featured repos
+
+*The Sanbot project:*
+- **Sunny-Sanbot** (main repo for programming Sanbot)
+- **Sanbot-MCU-Bridge** (a library and CLI to control Sanbot over USB)
+Quick context - Sanbot (Sanbot Elf S1-B2) is a humanoid-ish robot I have at home.
+I'm replacing the original Android board with a RPi, writing custom software, and adding AI capabilities (e.g. 3D nav, task execution etc.)
+This project is unfinished!
+
+That's it for now, as I use GitHub more I'll put more stuff here. I have some other cool stuff but nothing significant enough to put here.
+
+# To make GitHub happy:
 
 - 👋 Hi, I’m @KitcatCatlord
-- 👀 I’m primarily a musician, but I do a lot of programming and CAD
-- 😄 Pronouns: He/Him (straight)
+- 👀 I am (technically) a professional musician and (allegedly) a 10x dev
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Cats can rotate their ears 180 degrees
-
-
-# About my code
-
-My languages are:
-- C# main
-- C, C++, python secondary
-
-# AI use:
-- I sometimes use AI tools like Copilot or Codex to annotate and document code if workig on a collaborative project
-- I am not a vibe coder! Most of my program content is written by me
-- I also use AI to generate commit messages because keeping track of everything whilst also using imperative is (usually) a waste of time
-
-# About my repos
-
-Early repos:
-- Console projects (.NET FW)
-- Usually simple and/or incomplete
-- Don’t use Git properly
-- Sometimes disfunctional
-
-Modern repos:
-- Use various frameworks
-- Use Git properly
-- Functional (if not indev of course)
-- Not so simple
-
-Other notes:
-- I will sometimes publish programs that I write for myself (e.g. tools). These may be very simple, but every commit counts towards the Git Graph ;)
-- Lots of smaller repos won’t have releases, so you'll have to build them yourselves if you want to use them
 
 <!---
 KitcatCatlord/KitcatCatlord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
