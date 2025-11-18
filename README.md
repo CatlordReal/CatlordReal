@@ -15,7 +15,7 @@ Oh and I know some python too.
 # What I'm working on right now-ish:
 - Sanbot (repos Sanbot-MCU-Bridge and Sunny-Sanbot)
 - Learning Qt
-- The thesaurus (because how else am I going to find all these words)
+- The thesaurus (because how else did I find all those fancy words above)
 - Updating this list
 
 # Featured repos
