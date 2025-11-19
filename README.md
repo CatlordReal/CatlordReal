@@ -24,8 +24,10 @@ I use C# and C++ in a synergy-driven workflow powered by next-gen paradigm shift
 *The Sanbot project:*
 - **Sunny-Sanbot** (main repo for programming Sanbot)
 - **Sanbot-MCU-Bridge** (a library and CLI to control Sanbot over USB)
-Quick context - Sanbot (Sanbot Elf S1-B2) is a humanoid-ish robot I have at home.
-I'm replacing the original Android board with a RPi, writing custom software, and adding AI capabilities (e.g. 3D nav, task execution etc.)
+
+Project context: Sanbot (Sanbot Elf S1-B2) is a humanoid-ish robot I have at home.
+I'm replacing the original Android board with a RPi, writing custom software, and adding AI capabilities (e.g. 3D nav, task execution etc.).
+
 This project is unfinished!
 
 That's it for now, as I use GitHub more I'll put more stuff here. I have some other cool stuff but nothing significant enough to put here.
