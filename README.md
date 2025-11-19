@@ -30,7 +30,7 @@ I'm replacing the original Android board with a RPi, writing custom software, an
 
 This project is unfinished!
 
-That's it for now, as I use GitHub more I'll put more stuff here. I have some other cool stuff but nothing significant enough to put here.
+That's it for now, as I use GitHub more I'll put more stuff here. I have some other cool stuff but nothing significant enough to mention.
 
 # To make GitHub happy:
 
