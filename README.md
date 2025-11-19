@@ -1,7 +1,8 @@
 # "Skills"
 
 I use C# and C++ in a synergy-driven workflow powered by next-gen paradigm shifting, a rigorously functional Unix environment, and a meticulously engineered Neovim configuration that pushes Lua so far it starts counting from 0 again. My codebases leverage holistic object-oriented optimization and hyper-modular polymorphic patterns to maintain strong architectural clarity. Through disciplined pointer management and structured concurrency practices, I can confidently say I know 100f% of these languages.
-Oh and I know some python too.
+
+(Oh and I know some python too.)
 
 
 # No but seriously, I:
