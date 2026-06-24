@@ -2,11 +2,17 @@
 
 # Hello, I’m Kian! 🐈
 
-Working on **Sunny Sanbot** an old humanoid robot I’m uogrsding with new hardware and custom AI.
+I write C++ and C#, and I know Python too. I like robotics, engineering, and CAD.
+
+Working on **Sunny Sanbot** an old humanoid robot I’m upgrading with new hardware and custom AI.
+
+[![Sanbot MCU Bridge](https://opengraph.githubassets.com/1/CatlordReal/Sanbot-MCU-Bridge)](https://github.com/CatlordReal/Sanbot-MCU-Bridge)
+
+## I'm writing blogs now!
 
 [![Devlogs Website](https://img.shields.io/badge/projects.kianconti.com-visit-blue?style=for-the-badge)](https://projects.kianconti.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CatlordReal&show_icons=true&hide_border=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CatlordReal&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
 
 </div>
 
