@@ -4,6 +4,8 @@
 
 I write C++ and C#, and I know Python too. I like robotics, engineering, and CAD.
 
+![Skills](https://skillicons.dev/icons?i=cpp,cs,python,neovim,apple&theme=dark)
+
 Working on **Sunny Sanbot** an old humanoid robot I’m upgrading with new hardware and custom AI.
 
 [![Sanbot MCU Bridge](https://github-readme-stats.vercel.app/api/pin/?username=CatlordReal&repo=Sanbot-MCU-Bridge&theme=tokyonight&hide_border=true)](https://github.com/CatlordReal/Sanbot-MCU-Bridge)
