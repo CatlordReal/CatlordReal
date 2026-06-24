@@ -6,7 +6,7 @@ I write C++ and C#, and I know Python too. I like robotics, engineering, and CAD
 
 Working on **Sunny Sanbot** an old humanoid robot I’m upgrading with new hardware and custom AI.
 
-[![Sanbot MCU Bridge](https://opengraph.githubassets.com/1/CatlordReal/Sanbot-MCU-Bridge)](https://github.com/CatlordReal/Sanbot-MCU-Bridge)
+[![Sanbot MCU Bridge](https://github-readme-stats.vercel.app/api/pin/?username=CatlordReal&repo=Sanbot-MCU-Bridge&theme=tokyonight&hide_border=true)](https://github.com/CatlordReal/Sanbot-MCU-Bridge)
 
 ## I'm writing blogs now!
 
